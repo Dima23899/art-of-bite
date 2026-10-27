@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ArtOfBite" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryDark">@color/green_dark</item>
+        <item name="colorAccent">@color/orange_accent</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+        <item name="android:windowBackground">@color/cream</item>
+    </style>
+</resources>
